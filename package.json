@@ -1,0 +1,20 @@
+{
+  "name": "skillbox-01-workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeni83/skillbox-01-workspace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeni83/skillbox-01-workspace/issues"
+  },
+  "homepage": "https://github.com/evgeni83/skillbox-01-workspace#readme"
+}
